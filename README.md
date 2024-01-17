@@ -116,6 +116,8 @@ Here are some ideas to get you started:
  
 ![NavarroDevs GitHub stats](https://github-readme-stats.vercel.app/api?username=NavarroDevs\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NavarroDevs)](https://git.io/streak-stats) 
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NavarroDevs)](https://git.io/streak-stats)
 
 
