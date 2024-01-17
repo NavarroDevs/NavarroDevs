@@ -121,16 +121,16 @@ Here are some ideas to get you started:
 
       
 <!--- stats (end) -->
-</div>
+
 
 
 <td width="100%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NavarroDevs&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NavarroDevs&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=7"/>
 
   </td>
 
-
+</div>
 
 
 
