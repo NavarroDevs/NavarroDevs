@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, Python, PHP and NodeJ
 
 - 📫 How to reach me pedronavarro16@gmail.com
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
  <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
